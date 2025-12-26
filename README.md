@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <code>Full-Stack Developer | Cloud Solutions Architect | Performance Optimization Specialist</code>
+  <code>Full-Stack Developer | GEN AI ENGINEER | BLOCKCHAIN </code>
 </h3>
 
 <br>
